@@ -1,9 +1,7 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
-
-
-## NAME:PRABANJAN R
-## REG NO:212224230198
-
+# NAME : YUVARAJ M
+# REG : 212224040377
+# DATE : 27/2/26
 
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
